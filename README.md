@@ -49,6 +49,7 @@ To start streaming the application an image with preinstalled software needs to 
    - Create a user with email and name. Once created, user will receive a welcoming email with necessary instructions to create a password;
    - Provide user with the access to the application by assigning the stack, select **Actions**-**Assign stack** from the dropdown menu.
    - User will receive an email with link to login and is ready to start using the application via AppStream 2.0.
+
 ![Log in](https://github.com/nzamosenchuk/isv2cloud-windows-desktop-client/blob/master/8_login.png?raw=true "Log in")
 
 
