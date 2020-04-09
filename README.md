@@ -9,9 +9,9 @@ To start streaming the application an image with preinstalled software needs to 
 ### 1. Create an image with your application
 1. With an existing AWS account in place, navigate to the console [https://console.aws.amazon.com/appstream2](https://console.aws.amazon.com/appstream2) and select the preferred region from the navigation panel in the top right corner.
 1. To launch a graphical image builder. 
+   ![Launch Image Builder](https://github.com/nzamosenchuk/isv2cloud-windows-desktop-client/blob/master/1_launch_image_builder.png?raw=true "Launch Image Builder")
    - Select **Images** on the lest and in **Image Builder** tab click **Launch Image Builder** 
    - But shall the console welcome you with **Get Started**, chose it and proceed with **Custom Setup**
-   ![Launch Image Builder](https://github.com/nzamosenchuk/isv2cloud-windows-desktop-client/blob/master/1_launch_image_builder.png?raw=true "Launch Image Builder")
 1. Configure the image builder as giuded by the wizard, such as:  
    - Select the base image with desired Windows version and instance family;
    - Next give it a name and chose matching instance type;
@@ -49,7 +49,7 @@ To start streaming the application an image with preinstalled software needs to 
    - Create a user with email and name. Once created, user will receive a welcoming email with necessary instructions to create a password;
    - Provide user with the access to the application by assigning the stack, select **Actions**-**Assign stack** from the dropdown menu.
    - User will receive an email with link to login and is ready to start using the application via AppStream 2.0.
-   ![Log in](https://github.com/nzamosenchuk/isv2cloud-windows-desktop-client/blob/master/8_login.png?raw=true "Log in")
+![Log in](https://github.com/nzamosenchuk/isv2cloud-windows-desktop-client/blob/master/8_login.png?raw=true "Log in")
 
 
 
